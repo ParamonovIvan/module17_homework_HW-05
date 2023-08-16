@@ -19,7 +19,7 @@ describe('test for countDown function', () => {
 
   it('should throw an error if n < 1', () => {
     expect(() => {
-      countDown('-5');
+      countDown(-5);
     }).toThrow('Number must be positive!');
   });
 
