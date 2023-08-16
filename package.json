@@ -1,21 +1,21 @@
 {
-  "name": "learn-js",
+  "name": "module17_homework_HW-05",
   "version": "1.0.0",
-  "description": "js examples for fast learning",
+  "description": "module17_homework_HW-05",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aneelia/learn-js.git"
+    "url": "git+https://github.com/ParamonovIvan/module17_homework_HW-05.git"
   },
-  "author": "aneelia",
+  "author": "ParamonovIvan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aneelia/learn-js/issues"
+    "url": "https://github.com/ParamonovIvan/module17_homework_HW-05"
   },
-  "homepage": "https://github.com/aneelia/learn-js#readme",
+  "homepage": "https://github.com/ParamonovIvan/module17_homework_HW-05#readme",
   "devDependencies": {
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
