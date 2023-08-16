@@ -1,5 +1,5 @@
 export function countDown(n) {
-  if ((typeof n !== 'number' || Number.isNaN(n)) {
+  if (typeof n !== 'number' || Number.isNaN(n)) {
     throw new Error('Entered not a number!');
   };
   if (n < 1) {
